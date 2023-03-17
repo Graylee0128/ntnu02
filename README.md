@@ -1,4 +1,4 @@
-**心智圖：**
+## **心智圖：**
 https://gitmind.com/app/docs/mgzt2sfu
 ## 保險知識
 * 保險大叔
