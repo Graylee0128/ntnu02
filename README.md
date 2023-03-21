@@ -20,3 +20,9 @@ https://gitmind.com/app/docs/mgzt2sfu
 - [Numpy與Tensorflow的區別](https://blog.csdn.net/qq_36358716/article/details/97390900)
 
 ### 筆記
+
+## 作業
+- 作業一(影片)
+- 作業二(影片)
+- 作業三(影片)
+- 作業四(影片)
