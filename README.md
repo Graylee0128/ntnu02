@@ -2,6 +2,8 @@
 https://gitmind.com/app/docs/mgzt2sfu
 ## 保險知識
 * 保險大叔
+##機器學習
+https://learndigital.withgoogle.com/digitalgarage-tw/course/machine-learning-basics
 ## 數據分析
 * Numpy
 
