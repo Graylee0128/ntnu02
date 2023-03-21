@@ -5,5 +5,5 @@ https://gitmind.com/app/docs/mgzt2sfu
 ## 機器學習
 1. https://learndigital.withgoogle.com/digitalgarage-tw/course/machine-learning-basics
 ## 數據分析
-* Numpy
+* Numpy <https://www.youtube.com/watch?v=QUT1VHiLmmI>
 
