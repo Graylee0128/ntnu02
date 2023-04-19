@@ -17,6 +17,7 @@ https://gitmind.com/app/docs/mgzt2sfu
 ### 連結
 - [Numpy](https://www.youtube.com/watch?v=QUT1VHiLmmI)
 - [Numpy與Tensorflow的區別](https://blog.csdn.net/qq_36358716/article/details/97390900)
+- [scikit learn]
 
 ### 筆記
 
