@@ -25,6 +25,6 @@ https://gitmind.com/app/docs/mgzt2sfu
 ## 作業
 - [作業一(影片)](https://youtu.be/IFBXdB-QfH0)
 - [作業二(影片)](https://youtu.be/HG4rmkZ9cno)
-- 作業三(影片)
+- 作業三(影片)(https://youtu.be/LgnSTzTQYr0)
 - 作業四(影片)
  
